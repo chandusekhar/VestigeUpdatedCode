@@ -1,0 +1,48 @@
+E:\Bikram\Dev\Vestige.Config\obj\Debug\ResolveAssemblyReference.cache
+E:\Bikram\Dev\Vestige.Config\bin\Debug\Vestige.Config.dll
+E:\Bikram\Dev\Vestige.Config\bin\Debug\Vestige.Config.pdb
+E:\Bikram\Dev\Vestige.Config\bin\Debug\TaskScheduler.dll
+E:\Bikram\Dev\Vestige.Config\obj\Debug\Vestige.Config.dll
+E:\Bikram\Dev\Vestige.Config\obj\Debug\Vestige.Config.pdb
+D:\Dev\Vestige.Config\bin\Debug\Vestige.Config.dll
+D:\Dev\Vestige.Config\bin\Debug\Vestige.Config.pdb
+D:\Dev\Vestige.Config\bin\Debug\TaskScheduler.dll
+D:\Dev\Vestige.Config\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Vestige.Config\obj\Debug\Vestige.Config.dll
+D:\Dev\Vestige.Config\obj\Debug\Vestige.Config.pdb
+D:\Bikram\Dev\Vestige.Config\bin\Debug\Vestige.Config.dll
+D:\Bikram\Dev\Vestige.Config\bin\Debug\Vestige.Config.pdb
+D:\Bikram\Dev\Vestige.Config\bin\Debug\TaskScheduler.dll
+D:\Bikram\Dev\Vestige.Config\obj\Debug\ResolveAssemblyReference.cache
+D:\Bikram\Dev\Vestige.Config\obj\Debug\Vestige.Config.dll
+D:\Bikram\Dev\Vestige.Config\obj\Debug\Vestige.Config.pdb
+D:\Bikram\Dev - Copy\Vestige.Config\bin\Debug\Vestige.Config.dll
+D:\Bikram\Dev - Copy\Vestige.Config\bin\Debug\Vestige.Config.pdb
+D:\Bikram\Dev - Copy\Vestige.Config\bin\Debug\TaskScheduler.dll
+D:\Bikram\Dev - Copy\Vestige.Config\obj\Debug\ResolveAssemblyReference.cache
+D:\Bikram\Dev - Copy\Vestige.Config\obj\Debug\Vestige.Config.dll
+D:\Bikram\Dev - Copy\Vestige.Config\obj\Debug\Vestige.Config.pdb
+D:\Dev - Copy\Vestige.Config\bin\Debug\Vestige.Config.dll
+D:\Dev - Copy\Vestige.Config\bin\Debug\Vestige.Config.pdb
+D:\Dev - Copy\Vestige.Config\bin\Debug\TaskScheduler.dll
+D:\Dev - Copy\Vestige.Config\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev - Copy\Vestige.Config\obj\Debug\Vestige.Config.dll
+D:\Dev - Copy\Vestige.Config\obj\Debug\Vestige.Config.pdb
+D:\HandOverVestige\Dev - Copy2\Vestige.Config\bin\Debug\Vestige.Config.dll
+D:\HandOverVestige\Dev - Copy2\Vestige.Config\bin\Debug\Vestige.Config.pdb
+D:\HandOverVestige\Dev - Copy2\Vestige.Config\bin\Debug\TaskScheduler.dll
+D:\HandOverVestige\Dev - Copy2\Vestige.Config\obj\Debug\ResolveAssemblyReference.cache
+D:\HandOverVestige\Dev - Copy2\Vestige.Config\obj\Debug\Vestige.Config.dll
+D:\HandOverVestige\Dev - Copy2\Vestige.Config\obj\Debug\Vestige.Config.pdb
+E:\VishalBKP\Vishal\Dev - Copy2\Vestige.Config\bin\Debug\Vestige.Config.dll
+E:\VishalBKP\Vishal\Dev - Copy2\Vestige.Config\bin\Debug\Vestige.Config.pdb
+E:\VishalBKP\Vishal\Dev - Copy2\Vestige.Config\bin\Debug\TaskScheduler.dll
+E:\VishalBKP\Vishal\Dev - Copy2\Vestige.Config\obj\Debug\Vestige.Config.dll
+E:\VishalBKP\Vishal\Dev - Copy2\Vestige.Config\obj\Debug\Vestige.Config.pdb
+E:\VishalBKP\Vishal\Dev - Copy2\Vestige.Config\obj\Debug\Vestige.Config.csprojResolveAssemblyReference.cache
+F:\vestige20161115\Dev\Vestige.Config\bin\Debug\Vestige.Config.dll
+F:\vestige20161115\Dev\Vestige.Config\bin\Debug\Vestige.Config.pdb
+F:\vestige20161115\Dev\Vestige.Config\bin\Debug\TaskScheduler.dll
+F:\vestige20161115\Dev\Vestige.Config\obj\Debug\ResolveAssemblyReference.cache
+F:\vestige20161115\Dev\Vestige.Config\obj\Debug\Vestige.Config.dll
+F:\vestige20161115\Dev\Vestige.Config\obj\Debug\Vestige.Config.pdb

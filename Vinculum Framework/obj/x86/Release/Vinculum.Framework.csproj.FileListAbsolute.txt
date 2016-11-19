@@ -1,0 +1,69 @@
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Vinculum.Framework.dll.config
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Vinculum.Framework.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Vinculum.Framework.pdb
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\VestigeBosPOSCode\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\VestigeBosPOSCode\Vinculum Framework\obj\x86\Release\ResolveAssemblyReference.cache
+D:\VestigeBosPOSCode\Vinculum Framework\obj\x86\Release\Vinculum.Framework.dll
+D:\VestigeBosPOSCode\Vinculum Framework\obj\x86\Release\Vinculum.Framework.pdb
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Vinculum.Framework.dll.config
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Vinculum.Framework.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Vinculum.Framework.pdb
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\obj\x86\Release\ResolveAssemblyReference.cache
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\obj\x86\Release\Vinculum.Framework.dll
+F:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\obj\x86\Release\Vinculum.Framework.pdb
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Vinculum.Framework.dll.config
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Vinculum.Framework.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Vinculum.Framework.pdb
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.xml
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\obj\x86\Release\ResolveAssemblyReference.cache
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\obj\x86\Release\Vinculum.Framework.dll
+D:\20160329_SourceBOS\Vishal\Dev - Copy2\Vinculum Framework\obj\x86\Release\Vinculum.Framework.pdb
